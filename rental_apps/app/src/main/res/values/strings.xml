@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Rental Kita</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="pesanan_baru">Pesanan Masuk</string>
+    <string name="pesanan_proses">Pesanan Di Proses</string>
+    <string name="pesanan_selesai">Pesanan Selesai</string>
+    <string name="mobil">Mobil</string>
+    <string name="setting">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="admin">Admin</string>
+    <string name="user">User</string>
+    <string name="lorem_ipsum">coba1</string>
+    <string name="name"><b>Air max</b></string>
+    <string name="wishlist"><u>masuk ke Wishlist</u></string>
+</resources>
